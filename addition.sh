@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "File has been edited in production branch"
 echo "File has been edited in remote repository"
 echo "Welcome to the master branch"
 
